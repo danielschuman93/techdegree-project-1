@@ -12,7 +12,7 @@ project 1 - A Random Quote Generator
 ***/
 var quotes = [
   {quote: 'Try not to become a man of succes,  but rather try to become a man of value.', source: 'Albert Einstein', tags: ['#intellectual'] },
-  {quote: 'Dont\'t take life too seriously, no one makes it out alive.' , source: 'Elbert Hubbard', tags: ['#humor'] },
+  {quote: 'Don\'t take life too seriously, no one makes it out alive.' , source: 'Elbert Hubbard', tags: ['#humor'] },
   {quote: 'Always do right.  This will gratify some people and astonish the rest.' , source: 'Mark Twain', tags: ['#altruism'] },
   {quote: 'We have nothing to fear but fear itself.' , source: 'FDR', citiation: 'First Inaugural Address', year: '1933', tags: ['#inspirational'] },
   {quote: 'All that we are is the result of what we have thought.' , source: 'Buddha', tags: ['#philosophy'] }
