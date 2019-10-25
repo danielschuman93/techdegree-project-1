@@ -62,7 +62,7 @@ function printQuote() {
 }
 
 /***
- *  `random_bg_color` function
+ *  `random_bg_color` function from "https://www.w3resource.com/javascript-exercises/javascript-math-exercise-40.php"
 ***/
 function random_bg_color() {
     var x = Math.floor(Math.random() * 256);
